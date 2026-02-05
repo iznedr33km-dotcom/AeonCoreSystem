@@ -114,4 +114,4 @@ app.listen(PORT, () => {
     console.log(`Web Server is running on port ${PORT}`);
 });
 bot.startPolling();
-console.log("Система AEON вышла в онлайн
+console.log("Система AEON вышла в онлайн с модулем разума и автономным режимом.");
